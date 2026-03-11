@@ -355,3 +355,6 @@ For issues and questions:
 - Spring Boot team for the excellent framework
 - React community for frontend tools
 - Supabase for database and authentication services
+
+## ?? Further Documentation
+See [INDEX.md](./INDEX.md) for full project documentation.
