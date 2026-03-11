@@ -452,3 +452,7 @@ MIT License - See LICENSE file for details
 ## ?? Quick Links
 - [Setup Guide](./SETUP_GUIDE.md)
 - [Deployment](./DEPLOYMENT_CHECKLIST.md)
+
+## ?? Quick Links
+- [Setup Guide](./SETUP_GUIDE.md)
+- [Deployment](./DEPLOYMENT_CHECKLIST.md)
