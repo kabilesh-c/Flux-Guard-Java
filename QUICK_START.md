@@ -277,3 +277,5 @@ After starting the system, verify:
 **Time to First Transaction: ~5 minutes** ⚡
 
 *Happy fraud detecting!* 🛡️
+
+> **Note:** For troubleshooting, refer to [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)
